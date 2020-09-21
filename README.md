@@ -7,3 +7,4 @@
 - 📫 And my email is joost AT decock DOT org
 - 🙊 I'm an introvert, so I prefer email/chat over face-to-face
 
+[![joostdecock's github stats](https://github-readme-stats.vercel.app/api?username=joostdecock)](https://github.com/anuraghazra/github-readme-stats)

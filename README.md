@@ -2,7 +2,7 @@
 
 - 👻 Joost sounds like Ghost, in case you're wondering
 - 🧵 Most of my GitHub activity is related to [FreeSewing](https://freesewing.org/)
-- 🐦 I am [@j__st](https://twitter.com/j__st) on Twitter
+- 🐘 I am [@joost@freesewing.social](<a rel="me" href="https://freesewing.social/@joost">Mastodon</a>) on Mastodon
 - 📫 My email is joost AT joost DOT at
 - 🙊 I'm an introvert, so I prefer email/chat over face-to-face
 - 🦈 My pronouns are he/him or they/them
